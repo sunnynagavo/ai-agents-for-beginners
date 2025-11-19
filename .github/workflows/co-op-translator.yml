@@ -61,6 +61,8 @@ jobs:
           # translate -l "br it tr" -y
           # translate -l "el th sv da no" -y
           # translate -l "sv da no" -y 
+          # Add Telugu (te) language support
+          translate -l "te" -y
           # translate -l "fi nl he vi id ms" -y
           # translate -l "vi id ms" -y
           # translate -l "sw hu cs sk ro bg" -y
